@@ -52,6 +52,7 @@ This project provides a Django REST framework API for scraping cryptocurrency da
 5. **Download and place the ChromeDriver executable in your system's PATH:**
 
     - You can download ChromeDriver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+    - update the chromium path in settings.py
 
 6. **Run the development server:**
 
